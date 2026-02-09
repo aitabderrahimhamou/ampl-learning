@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 
-// adding a comment to test the pipeline
+
 function App() {
   return (
     <div className="App">
